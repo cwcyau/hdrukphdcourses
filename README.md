@@ -35,10 +35,11 @@ Participants should be:
 
 ## Course Timetable
 
+In 2022/23, we will be running four courses:
+
 | Dates | Course | Venue | Location | Fee | 
 | ----- | ------| ------ | --------- | --- | 
 | 9-11 Nov 2022 |  [Fairness in healthcare modelling](courses/fairness.md) | Wellcome Trust | London | No fee |
 | 17-19 Jan 2023 | [Structural Causal Models](courses/causal.md) | tbc | Oxford | No fee |
 | tbc | [Real-world Experimental Design](courses/exptdesign.md) | University of Birmingham | Birmingham | tbc |
 | tbc | [Electronic Health Record Modelling](courses/pioneer.md) | University of Birmingham | Birmingham | tbc |
-
