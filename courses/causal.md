@@ -6,7 +6,7 @@
 | :---- | :------ |
 | Code | HDR002 |
 | Title | Structural Causal Models |
-| Leader | [Max Little](http://www.maxlittle.net/home/index.php)) |
+| Leader | [Max Little](http://www.maxlittle.net/home/index.php) |
 | Duration | 3 days |
 
 ## Description
