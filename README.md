@@ -2,7 +2,21 @@
 
 # Health Data Research UK PhD Programme
 
-This website provides information about our immersion week courses.
+This website provides information about [Health Data Research UK PhD Programme](https://www.hdruk.ac.uk/careers-in-health-data-science/further-education/phd-programme/) (HDRUK) Immersion Week courses.
+
+These courses were developed for our HDRUK PhD Programme but in 2022 we are expanding to allow a limited number of PhD students from outside of programme to participate in our courses.
+
+## Why should you be interested?
+
+
+
+## How do you sign up?
+
+## Who should apply?
+
+Participants should be current PhD students at a UK university. 
+
+## Course Timetable
 
 | Dates | Course | Venue | Location |
 | ----- | ------| ------ | --------- | 
