@@ -8,6 +8,6 @@ This website provides information about our immersion week courses.
 | ----- | ------| ------ | --------- | 
 | 9-11 Nov 2022 |  [Fairness in healthcare modelling](courses/fairness.md) | Wellcome Trust | London |
 | 17-19 Jan 2023 | [Structural Causal Models](courses/causal.md) | tbc | Oxford |
-| tbc |  [Experimental Design](courses/exptdesign.md) | University of Birmingham | Birmingham |
+| tbc | [Real-world Experimental Design](courses/exptdesign.md) | University of Birmingham | Birmingham |
 | tbc | [Electronic Health Record Modelling](courses/pioneer.md) | University of Birmingham | Birmingham |
 
