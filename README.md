@@ -4,7 +4,7 @@
 
 This website provides information about [Health Data Research UK PhD Programme](https://www.hdruk.ac.uk/careers-in-health-data-science/further-education/phd-programme/) (HDRUK) Immersion Week courses.
 
-These courses were developed for our HDRUK PhD Programme but in the academic year 2022/23 we are expanding to allow a limited number of PhD students from outside of programme to participate in our courses with a view to expanding further in the future.
+These courses were developed for our HDRUK PhD Programme but in the academic year 2022/23 we are expanding to allow a limited number of PhD students from outside the programme to participate in our courses with a view to expanding further in the future.
 
 ## Why should you be interested?
 
@@ -30,7 +30,7 @@ Places are limited and subject to availability so we will ask you to explain you
 Participants should be:
 
 1. Current PhD students at a UK university,
-2. Experienced in graduate-level studies in mathematics and computational science,
+2. Experienced in graduate-level studies in mathematics, statistics and computational science,
 3. Proficient in a modern programming language (particularly Python and/or R).
 
 ## Course Timetable
