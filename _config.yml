@@ -1,0 +1,6 @@
+title: Minimal theme
+logo: /images/logo.svg
+description: Health Data Research UK PhD Immersion Weeks
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
