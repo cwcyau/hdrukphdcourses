@@ -42,4 +42,5 @@ In 2022/23, we will be running four courses:
 | tbc | [Real-world Experimental Design](courses/exptdesign.md) | University of Birmingham | Birmingham | tbc | tbc |
 | tbc | [Electronic Health Record Modelling](courses/pioneer.md) | University of Birmingham | Birmingham | tbc | tbc |
 
-* Participants will normally be expected to arrange their own travel and accommodation. A limited number of bursaries maybe available for some courses.
+* Participants will normally be expected to arrange their own travel and accommodation. 
+* A limited number of bursaries maybe available for some courses.
