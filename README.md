@@ -35,12 +35,12 @@ Participants should be:
 
 In the academic year 2022/23, we will be running the following courses:
 
-| Dates | Course | Venue | Location | Fee | Bursary Available | Places |
-| ----- | ------| ------ | --------- | --- | ---------------- | ------ |
-| 9-11 Nov 2022 |  [Fairness in healthcare modelling](courses/fairness.md) | Wellcome Trust | London | No fee | None | 6 |
-| 17-19 Jan 2023 | [Structural Causal Models](courses/causal.md) | tbc | Oxford | No fee | None | 9 |
-| tbc | [Real-world Experimental Design](courses/exptdesign.md) | University of Birmingham | Birmingham | tbc | tbc | tbc |
-| tbc | [Electronic Health Record Modelling](courses/pioneer.md) | University of Birmingham | Birmingham | tbc | tbc | tbc | 
+| Dates | Course | Venue | Location | Fee | Bursary Available | Places | Registration Deadline |
+| ----- | ------| ------ | --------- | --- | ---------------- | ------ | --------------------- | 
+| 9-11 Nov 2022 |  [Fairness in healthcare modelling](courses/fairness.md) | Wellcome Trust | London | No fee | None | 6 | 15/10/2022 |
+| 17-19 Jan 2023 | [Structural Causal Models](courses/causal.md) | tbc | Oxford | No fee | None | 9 | 30/11/2022 |
+| tbc | [Real-world Experimental Design](courses/exptdesign.md) | University of Birmingham | Birmingham | tbc | tbc | tbc | tbc |
+| tbc | [Electronic Health Record Modelling](courses/pioneer.md) | University of Birmingham | Birmingham | tbc | tbc | tbc | tbc |
 
 * Participants will normally be expected to arrange their own travel and accommodation. 
 * A limited number of bursaries maybe available for some courses.
