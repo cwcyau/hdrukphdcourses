@@ -31,6 +31,8 @@ Students will also need access to the [Nightingale](https://app.nightingalescien
 
 For those who may be interested in finding out more about fairness in healthcare modelling, the MIT course [“Ethical Machine Learning in Human Deployments”](https://canvas.mit.edu/courses/14219) by Dr. Marzyeh Ghassemi is excellent. 
 
+All the group-work programming will be carried out in *Python*, so knowledge of Python would be preferred but not necessary. 
+
 **To do:**
 
 1. Register for access to the [Nightingale](https://app.nightingalescience.org/projects) data.
