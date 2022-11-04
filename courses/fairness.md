@@ -71,11 +71,13 @@ All the group-work programming will be carried out in Python, so knowledge of Py
 
 5. Laliberté V, Giguère CE, Potvin S, Lesage A; Signature Consortium (2020). *Berkson's bias in biobank sampling in a specialised mental health care setting: a comparative cross-sectional study.* BMJ Open.
 
-6. Rory Collins (2012) *What makes UK Biobank special?*  The Lancet, Volume 379, Issue 9822. Including comment by James M. Swanson.
+6. Röösli, E., Bozkurt, S. & Hernandez-Boussard, T. Peeking into a black box, the fairness and generalizability of a MIMIC-III benchmarking model. Sci Data 9, 24 (2022).
 
-7. Huang, Jonathan Yinhao (2021) *Representativeness Is Not Representative: Addressing Major Inferential Threats in the UK Biobank and Other Big Data Repositories.* Epidemiology: Volume 32 - Issue 2.
+7. Rory Collins (2012) *What makes UK Biobank special?*  The Lancet, Volume 379, Issue 9822. Including comment by James M. Swanson.
 
-8. B.C.L. Lehmann, M. Mackintosh, G. McVean, C.C. Holmes (2021). *Optimal strategies for learning multi-ancestry polygenic scores vary across traits.* BioRxiv 2021.01.15.426781.
+8. Huang, Jonathan Yinhao (2021) *Representativeness Is Not Representative: Addressing Major Inferential Threats in the UK Biobank and Other Big Data Repositories.* Epidemiology: Volume 32 - Issue 2.
+
+9. B.C.L. Lehmann, M. Mackintosh, G. McVean, C.C. Holmes (2021). *Optimal strategies for learning multi-ancestry polygenic scores vary across traits.* BioRxiv 2021.01.15.426781.
 
 **14:00-16:00 Algorithmic fairness in healthcare**
 
@@ -91,16 +93,17 @@ All the group-work programming will be carried out in Python, so knowledge of Py
 
 *Reading papers:*
 
-9. Mitchell, S., Potash, E., Barocas, S., D'Amour, A., and Lum, K., (2018) *Prediction-Based Decisions and Fairness: A Catalogue of Choices, Assumptions, and Definitions*, arXiv.
+10. Mitchell, S., Potash, E., Barocas, S., D'Amour, A., and Lum, K., (2018) *Prediction-Based Decisions and Fairness: A Catalogue of Choices, Assumptions, and Definitions*, arXiv.
 
-10. Solon Barocas, Anhong Guo, Ece Kamar, Jacquelyn Krones, Meredith Ringel Morris, Jennifer Wortman Vaughan, W. Duncan Wadsworth, and Hanna Wallach (2021). *Designing Disaggregated Evaluations of AI Systems: Choices, Considerations, and Tradeoffs.* In Proceedings of the 2021 AAAI/ACM Conference on AI, Ethics, and Society (AIES '21). 
+11. Solon Barocas, Anhong Guo, Ece Kamar, Jacquelyn Krones, Meredith Ringel Morris, Jennifer Wortman Vaughan, W. Duncan Wadsworth, and Hanna Wallach (2021). *Designing Disaggregated Evaluations of AI Systems: Choices, Considerations, and Tradeoffs.* In Proceedings of the 2021 AAAI/ACM Conference on AI, Ethics, and Society (AIES '21). 
 
-11. Abigail Z. Jacobs and Hanna Wallach, (2021). *Measurement and Fairness.* In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (FAccT '21).
+12. Abigail Z. Jacobs and Hanna Wallach, (2021). *Measurement and Fairness.* In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (FAccT '21).
 
-12. Grote, T., & Keeling, G. (2022). *On Algorithmic Fairness in Medical Practice*. Cambridge Quarterly of Healthcare Ethics, 31(1), 83-94. 
+13. Grote, T., & Keeling, G. (2022). *On Algorithmic Fairness in Medical Practice*. Cambridge Quarterly of Healthcare Ethics, 31(1), 83-94. 
 
-13.  Margrét Vilborg Bjarnadóttir and David Anderson (2020). *Machine Learning in Healthcare: Fairness, Issues, and Challenges.* Pushing the Boundaries: Frontiers in Impactful OR/OM Research. 64-83.
+14.  Margrét Vilborg Bjarnadóttir and David Anderson (2020). *Machine Learning in Healthcare: Fairness, Issues, and Challenges.* Pushing the Boundaries: Frontiers in Impactful OR/OM Research. 64-83.
 
+15. Wu, H., Sylolypavan, A., Wang, M. and Wild, S. (2022). *Quantifying Health Inequalities Induced by Data and AI Models.*  Proceedings of the Thirty-First International Joint Conference on               Artificial Intelligence (AI for Good). 
 
 ### Day 2: Group work
 
