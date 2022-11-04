@@ -8,6 +8,7 @@
 | Title | Fairness in healthcare modelling |
 | Leader | [Ioanna Manolopoulou](https://ioannamanolopoulou.github.io/) |
 | Duration | 3 days |
+| Dates | 9-11 November 2022|
 
 ## Description
 
@@ -23,15 +24,15 @@ The aim of this training is to cover the basic principles of fairness in healthc
 
 ### Teaching methods
 
-The first part of the training will be largely based around discussions, but participants are expected to have read 4-5 of the key papers in this area that are listed below. In the second part, participants will be split into groups and work on a task. 
+The first part of the training will be largely based around discussions, but participants are expected to have read 4-5 of the key papers in this area (at least one from set) that are listed below. In the second part, participants will be split into groups and work on a task. 
 
 ## Pre-requisites
 
 Students will also need access to the [Nightingale](https://app.nightingalescience.org/projects) data. Nightingale is an open platform for health data but requires registration in advance and approval can take several days, so early registration is required. The platform contains lots of information on existing projects. Students are also advised to complete the MRC [“Research, GDPR and confidentiality”](https://byglearning.com/mrcrsc-lms/course/index.php?categoryid=1) e-learning module (or another equivalent training). 
 
-For those who may be interested in finding out more about fairness in healthcare modelling, the MIT course [“Ethical Machine Learning in Human Deployments”](https://canvas.mit.edu/courses/14219) by Dr. Marzyeh Ghassemi is excellent. 
+For those who may be interested in finding out more about fairness in healthcare modelling, the MIT course [“Ethical Machine Learning in Human Deployments”](https://canvas.mit.edu/courses/14219) by Dr. Marzyeh Ghassemi is excellent. You may also be interested in [Data Science for Health Equity (DSxHE)](https://www.datascienceforhealthequity.com/), an independent community that brings together experts, enthusiasts and hobbyists working at the intersection of data science and health inequalities to ensure that the latest research and innovations improve health equity. There is also a [Turing Interest Group on "Health Equity"](https://www.turing.ac.uk/research/interest-groups/health-equity) which you might be interested in. 
 
-All the group-work programming will be carried out in *Python*, so knowledge of Python would be preferred but not necessary. 
+All the group-work programming will be carried out in Python, so knowledge of Python would be preferred but not necessary. 
 
 **To do:**
 
@@ -60,6 +61,12 @@ All the group-work programming will be carried out in *Python*, so knowledge of 
 - What are common sources of selection bias? 
 - Can we correct for selection bias? 
 
+| Time | Task|
+|------|------|
+|10:30-11:30 | Introduction|
+|11:30-12:30 | Seminar by [Brieuc Lehmann](https://brieuclehmann.github.io/)|
+
+
 *Reading papers:*
 
 5. Laliberté V, Giguère CE, Potvin S, Lesage A; Signature Consortium (2020). *Berkson's bias in biobank sampling in a specialised mental health care setting: a comparative cross-sectional study.* BMJ Open.
@@ -70,11 +77,17 @@ All the group-work programming will be carried out in *Python*, so knowledge of 
 
 8. B.C.L. Lehmann, M. Mackintosh, G. McVean, C.C. Holmes (2021). *Optimal strategies for learning multi-ancestry polygenic scores vary across traits.* BioRxiv 2021.01.15.426781.
 
-**14:00-15:30 Algorithmic fairness in healthcare**
+**14:00-16:00 Algorithmic fairness in healthcare**
 
 - What is algorithmic fairness?
 - How do we evaluate algorithmic fairness? 
 - What are the limits of algorithmic solutions? 
+
+| Time | Task|
+|------|------|
+|14:00-14:30 | Introduction |
+|14:30-15:30 | Seminar by Claire Coffey, "Algorithmic fairness in cardiovascular disease risk prediction models."|
+|15:30-16:00 | Discussion and introduction to Day 2 task|
 
 *Reading papers:*
 
@@ -89,20 +102,19 @@ All the group-work programming will be carried out in *Python*, so knowledge of 
 13.  Margrét Vilborg Bjarnadóttir and David Anderson (2020). *Machine Learning in Healthcare: Fairness, Issues, and Challenges.* Pushing the Boundaries: Frontiers in Impactful OR/OM Research. 64-83.
 
 
-**15.30-16.00: Summary and introduction to Day 2 task.**
-
 ### Day 2: Group work
 
 The second day will be mostly spent working on the task with the help of instructors. 
 
 | Time | Task |
 | ---- | ---- |
-| 9.30-10.15 | Exploration data analysis |
+| 9.30-10.15 | Exploratory data analysis |
 | 10.30-12.30 | Work on task |
 | 14.00-14.30 | Check-in with instructor |
 | 14.30-16.00 | Work on task |
+| 16.00-17.00 | Webinar by [Emma Pearson](https://www.cs.cornell.edu/~emmapierson/) through DSxHE. 
 
-You are free to continue working on your task until the next morning, but will not be given any additional assistance after 4pm. 
+We don't expect participants to continue working on the task past 4pm. 
 
 ### Day 3: Evaluation
 
