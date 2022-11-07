@@ -84,9 +84,9 @@ All the group-work programming will be carried out in Python, so knowledge of Py
 - What happens if the bias is severe? 
 
 | Time | Task|
-|------|------|
+|-----------|-------------------------------|
 |11.00-12.30 | Evaluation and algorithmic correction methods of bias|
-|12.30 - 14.00| Lunch break |
+|12.30-14.00| Lunch break |
 |14.00-15.00 | Seminar by Claire Coffey, "Algorithmic fairness in cardiovascular disease risk prediction models."|
 |15.00-16.00 | Discussion and introduction to Day 2 task|
 
