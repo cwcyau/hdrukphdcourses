@@ -77,7 +77,7 @@ All the group-work programming will be carried out in Python, so knowledge of Py
 
 9. B.C.L. Lehmann, M. Mackintosh, G. McVean, C.C. Holmes (2021). *Optimal strategies for learning multi-ancestry polygenic scores vary across traits.* BioRxiv 2021.01.15.426781.
 
-**14:00-16:00 Algorithmic approaches to evaluation and/or correction of bias**
+**11:00-16:00 Algorithmic approaches to evaluation and/or correction of bias**
 
 - How can we systematically evaluate bias in our methods? 
 - Is there a way to correct bias?
