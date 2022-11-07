@@ -59,13 +59,13 @@ All the group-work programming will be carried out in Python, so knowledge of Py
 
 - What is selection bias? 
 - What are common sources of selection bias? 
-- Can we correct for selection bias? 
+- Can we detect bias?
+- Can we correct for bias? 
 
 | Time | Task|
 |------|------|
-|10:30-11:30 | Introduction|
-|11:30-12:30 | Seminar by [Brieuc Lehmann](https://brieuclehmann.github.io/)|
-
+|10.30-11.00 | Bias in data|
+|11.00-12.30 | Evaluation and algorithmic corrections of bias|
 
 *Reading papers:*
 
@@ -79,17 +79,15 @@ All the group-work programming will be carried out in Python, so knowledge of Py
 
 9. B.C.L. Lehmann, M. Mackintosh, G. McVean, C.C. Holmes (2021). *Optimal strategies for learning multi-ancestry polygenic scores vary across traits.* BioRxiv 2021.01.15.426781.
 
-**14:00-16:00 Algorithmic fairness in healthcare**
+**14:00-16:00 Algorithmic approaches to bias**
 
-- What is algorithmic fairness?
-- How do we evaluate algorithmic fairness? 
-- What are the limits of algorithmic solutions? 
+- How can we systematically evaluate bias in our methods? 
+- What happens if the bias is severe? 
 
 | Time | Task|
 |------|------|
-|14:00-14:30 | Introduction |
-|14:30-15:30 | Seminar by Claire Coffey, "Algorithmic fairness in cardiovascular disease risk prediction models."|
-|15:30-16:00 | Discussion and introduction to Day 2 task|
+|14.00-15.00 | Seminar by Claire Coffey, "Algorithmic fairness in cardiovascular disease risk prediction models."|
+|15.00-16.00 | Discussion and introduction to Day 2 task|
 
 *Reading papers:*
 
@@ -112,7 +110,8 @@ The second day will be mostly spent working on the task with the help of instruc
 | Time | Task |
 | ---- | ---- |
 | 9.30-10.15 | Exploratory data analysis |
-| 10.30-12.30 | Work on task |
+| 10.30-11.30 | Work on task |
+| 11.30-12.30 | Seminar by Dr Brieuc Lehmann|
 | 14.00-14.30 | Check-in with instructor |
 | 14.30-16.00 | Work on task |
 | 16.00-17.00 | Webinar by [Emma Pearson](https://www.cs.cornell.edu/~emmapierson/) through DSxHE. 
