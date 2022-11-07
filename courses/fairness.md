@@ -112,7 +112,7 @@ The second day will be mostly spent working on the task with the help of instruc
 | ---- | ---- |
 | 9.30-10.15 | Exploratory data analysis |
 | 10.30-11.30 | Work on task |
-| 11.30-12.30 | Seminar by Dr Brieuc Lehmann|
+| 11.30-12.30 | Seminar by Dr Brieuc Lehmann, "Generalisability and transportability in clinical trials"|
 | 14.00-14.30 | Check-in with instructor |
 | 14.30-16.00 | Work on task |
 | 16.00-17.00 | Webinar by [Emma Pearson](https://www.cs.cornell.edu/~emmapierson/) through DSxHE. 
