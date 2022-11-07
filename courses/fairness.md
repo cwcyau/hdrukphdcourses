@@ -55,17 +55,15 @@ All the group-work programming will be carried out in Python, so knowledge of Py
 
 4. Harini Suresh and John Guttag (2021). *Understanding Potential Sources of Harm throughout the Machine Learning Life Cycle*. MIT Case Studies in Social and Ethical Responsibilities of Computing,
 
-**10:30-12:30 Bias in data collection**
+**10:30-11:00 Bias in data**
 
+- How does bias in data arise? 
 - What is selection bias? 
-- What are common sources of selection bias? 
-- Can we detect bias?
-- Can we correct for bias? 
+- What are common sources of bias in healthcare data? 
 
 | Time | Task|
 |------|------|
 |10.30-11.00 | Bias in data|
-|11.00-12.30 | Evaluation and algorithmic corrections of bias|
 
 *Reading papers:*
 
@@ -79,13 +77,16 @@ All the group-work programming will be carried out in Python, so knowledge of Py
 
 9. B.C.L. Lehmann, M. Mackintosh, G. McVean, C.C. Holmes (2021). *Optimal strategies for learning multi-ancestry polygenic scores vary across traits.* BioRxiv 2021.01.15.426781.
 
-**14:00-16:00 Algorithmic approaches to bias**
+**14:00-16:00 Algorithmic approaches to evaluation and/or correction of bias**
 
 - How can we systematically evaluate bias in our methods? 
+- Is there a way to correct bias?
 - What happens if the bias is severe? 
 
 | Time | Task|
 |------|------|
+|11.00-12.30 | Evaluation and algorithmic correction methods of bias|
+|12.30 - 14.00| Lunch break |
 |14.00-15.00 | Seminar by Claire Coffey, "Algorithmic fairness in cardiovascular disease risk prediction models."|
 |15.00-16.00 | Discussion and introduction to Day 2 task|
 
