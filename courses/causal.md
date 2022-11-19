@@ -27,12 +27,14 @@ lectures.
 
 ## Pre-requisites
 
-** THIS COURSE IS NOT AN INTRODUCTORY COURSE ** participants are expected to have sufficient mathematical and computational as outlined below. Participants will be required to have undertaken the pre-course reading.
+**THIS COURSE IS NOT AN INTRODUCTORY COURSE** 
+
+Participants are expected to have sufficient mathematical and computational as outlined below. Participants will be required to have undertaken the pre-course reading.
 
 1. In order to take part in the group tasks, students will be expected to have access to a laptop with the Python language installed. Familiarity with Python is an advantage, but experience in programming in any imperative language (e.g. R, C++, Java) will likely suffice for
 the course.
 
-2. Some knowledge of basic mathematical probability and graphs is expected. 
+2. Knowledge of basic mathematical probability and graphs is expected. 
 
 3. Students will be expected to have read "The Book of Why: The New Science of Cause and Effect" by Judea Pearl, an accessible introduction to structural causal modelling and inference, before attending the workshop.
 
