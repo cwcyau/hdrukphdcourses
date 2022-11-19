@@ -8,7 +8,6 @@
 | Title | Fairness in healthcare modelling |
 | Leader | [Ioanna Manolopoulou](https://ioannamanolopoulou.github.io/) |
 | Duration | 3 days |
-| Dates | 9-11 November 2022|
 
 ## Description
 
