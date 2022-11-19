@@ -1,4 +1,4 @@
-# HDR002 Structural Causal Models
+# HDR002 Structural Causal Models and Inference
 
 ## Basic Information
 
