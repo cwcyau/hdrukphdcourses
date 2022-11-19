@@ -17,7 +17,7 @@ Most health data researchers appreciate that "association is not causation", but
 
 ### Intended Learning Outcomes
 
-This workshop aims to give the participants a thorough and rigorous introduction to the key modern theory of causality, structural causal modelling, and causal inference. By the end of the course, students should be able to have confidence in applying the concepts of causal modelling and inference, and be able to use and/or implement causal inference algorithms, for their own health data science applications.
+This workshop aims to give the participants a thorough and rigorous *advanced* introduction to the key modern theory of causality, structural causal modelling, and causal inference. By the end of the course, students should be able to have confidence in applying the concepts of causal modelling and inference, and be able to use and/or implement causal inference algorithms, for their own health data science applications.
 
 ### Teaching methods
 
@@ -27,15 +27,14 @@ lectures.
 
 ## Pre-requisites
 
-In order to take part in the group tasks, students will be expected to have access to a laptop with the Python language installed.
+** THIS COURSE IS NOT AN INTRODUCTORY COURSE ** participants are expected to have sufficient mathematical and computational as outlined below. Participants will be required to have undertaken the pre-course reading.
 
-Familiarity with Python is an advantage, but experience in programming in any imperative language (e.g. R, C++, Java) will likely suffice for
+1. In order to take part in the group tasks, students will be expected to have access to a laptop with the Python language installed. Familiarity with Python is an advantage, but experience in programming in any imperative language (e.g. R, C++, Java) will likely suffice for
 the course.
 
-Some knowledge of basic mathematical probability and
-graphs is expected. 
+2. Some knowledge of basic mathematical probability and graphs is expected. 
 
-Students will be expected to have read "The Book of Why: The New Science of Cause and Effect" by Judea Pearl, an accessible introduction to structural causal modelling and inference, before attending the workshop.
+3. Students will be expected to have read "The Book of Why: The New Science of Cause and Effect" by Judea Pearl, an accessible introduction to structural causal modelling and inference, before attending the workshop.
 
 ## Timetable
 
