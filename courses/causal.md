@@ -41,34 +41,40 @@ Students will be expected to have read "The Book of Why: The New Science of Caus
 
 **Day 1: Concepts and tools**
 
-9.30-10.20 Lecture 1: Structural causal models and the Pearl hierarchy
-10.30-11.20 Directed reading group 1: Bareinboim et al., 2022
-11.30-12.30 Lecture 2: Interventional distributions and the identifiability problem
-12.30-13.50 Lunch
-14.00-14.50 Directed reading group 2: Shpitser, 2020
-15.00-15.50 Lecture 3: GRAPL: A computational Python library for nonparametric structural causal modelling, analysis and inference
-16.00-17.00 Group task descriptions and discussion
+| Time | Description | 
+| ---- | ----------- |
+| 9.30-10.20 | Lecture 1: Structural causal models and the Pearl hierarchy |
+| 10.30-11.20 | Directed reading group 1: Bareinboim et al., 2022 |
+| 11.30-12.30 | Lecture 2: Interventional distributions and the identifiability problem |
+| 12.30-13.50 | Lunch |
+| 14.00-14.50 | Directed reading group 2: Shpitser, 2020 |
+| 15.00-15.50 | Lecture 3: GRAPL: A computational Python library for nonparametric structural causal modelling, analysis and inference |
+| 16.00-17.00 | Group task descriptions and discussion |
 
 **Day 2: Group tasks and guest lectures**
 
- 9.30-10.50 Group work
-11.00-11.50 External Seminar [tbc] 
-12.00-13.20 Lunch
-13.30-14.50 Group work
-15.00-15.30 External Seminar [Dhurim Caqiki]
-15.30-17.00 Group work
+| Time | Description | 
+| ---- | ----------- |
+| 9.30-10.50 | Group work | 
+| 11.00-11.50 | External Seminar [tbc] | 
+| 12.00-13.20 | Lunch | 
+| 13.30-14.50 | Group work | 
+| 15.00-15.30 | External Seminar [Dhurim Caqiki] | 
+| 15.30-17.00 | Group work | 
 
-Task A. Application: modelling and structural inference problem
+*Task A:* Application: modelling and structural inference problem
 
-Task B. Algorithm implementation: Identification of conditional interventional distributions (IDC algorithm, Shpitser et al.)
+*Task B:* Algorithm implementation: Identification of conditional interventional distributions (IDC algorithm, Shpitser et al.)
 
-Task C. Algorithm implementation: Recovering an interventional distribution when only biased data is available (RC algorithm, Correa et al.)
+*Task C:* Algorithm implementation: Recovering an interventional distribution when only biased data is available (RC algorithm, Correa et al.)
 
 **Day 3: Task presentation and wrap-up**
 
-9.30-10.00 Submit work
-10.00-12.00 Presentations on results from each group
-12.00-12.30 Summary
+| Time | Description | 
+| ---- | ----------- |
+| 9.30-10.00 | Submit work | 
+| 10.00-12.00 | Presentations on results from each group | 
+| 12.00-12.30 | Summary | 
 
 # References
 
