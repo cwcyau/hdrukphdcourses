@@ -25,7 +25,7 @@ The training will consist of technical lectures, directed reading group discussi
 
 ## Pre-requisites
 
-**THIS COURSE IS NOT AN INTRODUCTORY COURSE** 
+**THIS IS NOT AN NON-TECHNICAL INTRODUCTORY COURSE** 
 
 Participants are expected to have sufficient mathematical and computational as outlined below. Participants will be required to have undertaken the pre-course reading. If you are interested in a non-technical introduction to this area, you may wish to consider alternative providers such as the [Leeds Causal Inference Training Course](https://www.causalinsights.com/training/).
 
@@ -87,7 +87,7 @@ Participants are expected to have sufficient mathematical and computational as o
 3. Ilya Shpitser (2020). [Identification in Causal Models With Hidden Variables](https://pubmed.ncbi.nlm.nih.gov/33240555/), J Soc Fr Statistique, 2020, 161(1):91–119
 4. Jin Tian, Judea Pearl (2002). [A general identification condition for causal effects](https://www.aaai.org/Library/AAAI/2002/aaai02-085.php). In Eighteenth National Conference on Artificial Intelligence, pp. 567–573.
 5. Thomas S. Richardson, Robin J. Evans, James M. Robins and Ilya Shpitser (2022), [Nested Markov Properties for Acyclic Directed Mixed Graphs](https://arxiv.org/abs/1701.06686), https://arxiv.org/abs/1701.06686
-6. Juan D. Correa, Jin Tian, Elias Bareinboim (2019). Identification of Causal Effects in the Presence of Selection Bias, AAAI-19
-7. Ilya Shpitser, Judea Pearl (2006). Identification of Conditional Interventional Distributions, UAI-2006
+6. Juan D. Correa, Jin Tian, Elias Bareinboim (2019). [Identification of Causal Effects in the Presence of Selection Bias](https://ojs.aaai.org/index.php/AAAI/article/view/4125), AAAI-19
+7. Ilya Shpitser, Judea Pearl (2006). [Identification of Conditional Interventional Distributions](https://arxiv.org/abs/1206.6876), UAI-2006
 
 
