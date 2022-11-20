@@ -76,7 +76,7 @@ Participants are expected to have sufficient mathematical and computational as o
 
 | Time | Description | 
 | ---- | ----------- |
-| 9.30-11.00 | Submit work | 
+| 9.30-11.00 | Finalise task work | 
 | 11.00-12.30 | Presentations on results from each group | 
 | 12.30-13.00 | Summary | 
 
