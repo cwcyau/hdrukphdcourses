@@ -32,8 +32,8 @@ Participants are expected to have sufficient mathematical and computational as o
 1. In order to take part in the group tasks, students will be expected to have access to a laptop with the Python language installed. Familiarity with Python is an advantage, but experience in programming in any imperative language (e.g. R, C++, Java) will likely suffice for the course.
 
 2. Knowledge of mathematical probability and graphs is expected. Participants should have (or will have acquired) familiarity with the following: 
-    - Topics equivalent to those covered as part of Chapters 1-4 (https://www.utstat.toronto.edu/mikevans/jeffrosenthal/book.pdf)
-    - Topics equivalent to those covered in Section 2.2. (http://mcb111.org/w06/KollerFriedman.pdf)
+    - Topics equivalent to those covered as part of Chapters 1-4 in [Probability and Statistics: The Science of Uncertainty](https://www.utstat.toronto.edu/mikevans/jeffrosenthal/book.pdf)
+    - Topics equivalent to those covered in Section 2.2 of [Probabilistic Graphical Models](http://mcb111.org/w06/KollerFriedman.pdf)
 
 3. Participants will be expected to be familiar with the concepts introduced in the [The Book of Why: The New Science of Cause and Effect](https://en.wikipedia.org/wiki/The_Book_of_Why) by Judea Pearl, an accessible introduction to structural causal modelling and inference, before attending the workshop.  
     - Free excerpts are available [here](http://bayes.cs.ucla.edu/WHY/). 
@@ -53,7 +53,7 @@ Participants are expected to have sufficient mathematical and computational as o
 | 12.30-13.50 | Lunch |
 | 14.00-14.50 | Directed reading group 2: Shpitser, 2020 |
 | 15.00-15.50 | Lecture 3: GRAPL: A computational Python library for nonparametric structural causal modelling, analysis and inference |
-| 16.00-17.00 | Group task descriptions and discussion |
+| 16.00-16.30 | Group task descriptions and discussion |
 
 **Day 2: Group tasks and guest lectures**
 
@@ -64,7 +64,7 @@ Participants are expected to have sufficient mathematical and computational as o
 | 12.00-13.20 | Lunch | 
 | 13.30-14.50 | Group work | 
 | 15.00-15.30 | External Seminar [Dhurim Caqiki] | 
-| 15.30-17.00 | Group work | 
+| 15.30-16.00 | Group work | 
 
 *Task A:* Application: modelling and structural inference problem
 
@@ -76,9 +76,9 @@ Participants are expected to have sufficient mathematical and computational as o
 
 | Time | Description | 
 | ---- | ----------- |
-| 9.30-10.00 | Submit work | 
-| 10.00-12.00 | Presentations on results from each group | 
-| 12.00-12.30 | Summary | 
+| 9.30-11.00 | Submit work | 
+| 11.00-12.30 | Presentations on results from each group | 
+| 12.30-13.00 | Summary | 
 
 # References
 
