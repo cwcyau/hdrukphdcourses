@@ -35,7 +35,7 @@ Participants are expected to have sufficient mathematical and computational as o
   - Topics covered as part of Chapters 1-4 (https://www.utstat.toronto.edu/mikevans/jeffrosenthal/book.pdf)
   - Topics covered in Section 2.2. (http://mcb111.org/w06/KollerFriedman.pdf)
 
-3. Participants will be expected to be familiar with the concepts introduced in the "The Book of Why: The New Science of Cause and Effect" by Judea Pearl, an accessible introduction to structural causal modelling and inference, before attending the workshop. 
+3. Participants will be expected to be familiar with the concepts introduced in the [The Book of Why: The New Science of Cause and Effect](https://en.wikipedia.org/wiki/The_Book_of_Why) by Judea Pearl, an accessible introduction to structural causal modelling and inference, before attending the workshop.  
   - Free excerpts are available [here](http://bayes.cs.ucla.edu/WHY/). 
   - Video lectures from Judea Pearl can be found on popular media platforms: 
     - [Judea Pearl - The New Science of Cause and Effect](https://www.youtube.com/watch?v=ZaPV1OSEpHw&ab_channel=PyData)
