@@ -83,10 +83,10 @@ Participants are expected to have sufficient mathematical and computational as o
 # References
 
 1. Judea Pearl (2018). The Book of Why: The New Science of Cause and Effect, Penguin
-2. Elias Bareinboim, Juan D. Correa, Duligur Ibeling, Thomas Icard (2022). On Pearl's Hierarchy and the Foundations of Causal Inference, Probabilistic and Causal Inference: The Works of Judea Pearl, February 2022, 507–556, https://doi.org/10.1145/3501714.3501743
-3. Ilya Shpitser (2020). Identification in Causal Models With Hidden Variables, J Soc Fr Statistique, 2020, 161(1):91–119
-4. Jin Tian, Judea Pearl (2002). A general identification condition for causal effects. In Eighteenth National Conference on Artificial Intelligence, pp. 567–573.
-5. Thomas S. Richardson, Robin J. Evans, James M. Robins and Ilya Shpitser (2022), Nested Markov Properties for Acyclic Directed Mixed Graphs, https://arxiv.org/abs/1701.06686
+2. Elias Bareinboim, Juan D. Correa, Duligur Ibeling, Thomas Icard (2022). [On Pearl's Hierarchy and the Foundations of Causal Inference, Probabilistic and Causal Inference: The Works of Judea Pearl](https://causalai.net/r60.pdf), February 2022, 507–556, https://doi.org/10.1145/3501714.3501743
+3. Ilya Shpitser (2020). [Identification in Causal Models With Hidden Variables](https://pubmed.ncbi.nlm.nih.gov/33240555/), J Soc Fr Statistique, 2020, 161(1):91–119
+4. Jin Tian, Judea Pearl (2002). [A general identification condition for causal effects](https://www.aaai.org/Library/AAAI/2002/aaai02-085.php). In Eighteenth National Conference on Artificial Intelligence, pp. 567–573.
+5. Thomas S. Richardson, Robin J. Evans, James M. Robins and Ilya Shpitser (2022), [Nested Markov Properties for Acyclic Directed Mixed Graphs](https://arxiv.org/abs/1701.06686), https://arxiv.org/abs/1701.06686
 6. Juan D. Correa, Jin Tian, Elias Bareinboim (2019). Identification of Causal Effects in the Presence of Selection Bias, AAAI-19
 7. Ilya Shpitser, Judea Pearl (2006). Identification of Conditional Interventional Distributions, UAI-2006
 
