@@ -17,13 +17,11 @@ Most health data researchers appreciate that "association is not causation", but
 
 ### Intended Learning Outcomes
 
-This workshop aims to give the participants a thorough and rigorous *advanced* introduction to the key modern theory of causality, structural causal modelling, and causal inference. By the end of the course, students should be able to have confidence in applying the concepts of causal modelling and inference, and be able to use and/or implement causal inference algorithms, for their own health data science applications.
+This workshop aims to give the participants a thorough and rigorous *advanced* introduction to the key modern theory of causality, structural causal modelling, and causal inference. By the end of the course, participants should be able to have confidence in applying the concepts of causal modelling and inference, and be able to use and/or implement causal inference algorithms, for their own health data science applications.
 
 ### Teaching methods
 
-The training will consist of technical lectures, directed reading
-group discussions, practical group tasks and enrichment such as guest
-lectures.
+The training will consist of technical lectures, directed reading group discussions, practical group tasks and enrichment such as guest lectures.
 
 ## Pre-requisites
 
@@ -31,12 +29,14 @@ lectures.
 
 Participants are expected to have sufficient mathematical and computational as outlined below. Participants will be required to have undertaken the pre-course reading.
 
-1. In order to take part in the group tasks, students will be expected to have access to a laptop with the Python language installed. Familiarity with Python is an advantage, but experience in programming in any imperative language (e.g. R, C++, Java) will likely suffice for
-the course.
+1. In order to take part in the group tasks, students will be expected to have access to a laptop with the Python language installed. Familiarity with Python is an advantage, but experience in programming in any imperative language (e.g. R, C++, Java) will likely suffice for the course.
 
-2. Knowledge of basic mathematical probability and graphs is expected. 
+2. Knowledge of mathematical probability and graphs is expected. Participants should have (or will have acquired) familiarity with the following: 
 
-3. Students will be expected to have read "The Book of Why: The New Science of Cause and Effect" by Judea Pearl, an accessible introduction to structural causal modelling and inference, before attending the workshop.
+- Topics covered as part of Chapters 1-4 (https://www.utstat.toronto.edu/mikevans/jeffrosenthal/book.pdf)
+- Topics covered in Section 2.2. (http://mcb111.org/w06/KollerFriedman.pdf)
+
+3. Participants will be expected to have read "The Book of Why: The New Science of Cause and Effect" by Judea Pearl, an accessible introduction to structural causal modelling and inference, before attending the workshop.
 
 ## Timetable
 
