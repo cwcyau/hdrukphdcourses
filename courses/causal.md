@@ -64,7 +64,7 @@ Participants are expected to have sufficient mathematical and computational as o
 | 12.00-13.20 | Lunch | 
 | 13.30-14.50 | Group work | 
 | 15.00-15.30 | External Seminar [Dhurim Caqiki] | 
-| 15.30-16.00 | Group work | 
+| 15.30-16.30 | Group work | 
 
 *Task A:* Application: modelling and structural inference problem
 
