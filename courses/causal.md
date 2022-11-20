@@ -32,11 +32,14 @@ Participants are expected to have sufficient mathematical and computational as o
 1. In order to take part in the group tasks, students will be expected to have access to a laptop with the Python language installed. Familiarity with Python is an advantage, but experience in programming in any imperative language (e.g. R, C++, Java) will likely suffice for the course.
 
 2. Knowledge of mathematical probability and graphs is expected. Participants should have (or will have acquired) familiarity with the following: 
+  - Topics covered as part of Chapters 1-4 (https://www.utstat.toronto.edu/mikevans/jeffrosenthal/book.pdf)
+  - Topics covered in Section 2.2. (http://mcb111.org/w06/KollerFriedman.pdf)
 
-- Topics covered as part of Chapters 1-4 (https://www.utstat.toronto.edu/mikevans/jeffrosenthal/book.pdf)
-- Topics covered in Section 2.2. (http://mcb111.org/w06/KollerFriedman.pdf)
-
-3. Participants will be expected to have read "The Book of Why: The New Science of Cause and Effect" by Judea Pearl, an accessible introduction to structural causal modelling and inference, before attending the workshop.
+3. Participants will be expected to be familiar with the concepts introduced in the "The Book of Why: The New Science of Cause and Effect" by Judea Pearl, an accessible introduction to structural causal modelling and inference, before attending the workshop. 
+  - Free excerpts are available [here](http://bayes.cs.ucla.edu/WHY/). 
+  - Video lectures from Judea Pearl can be found on popular media platforms: 
+    - [Judea Pearl - The New Science of Cause and Effect](https://www.youtube.com/watch?v=ZaPV1OSEpHw&ab_channel=PyData)
+    - https://www.youtube.com/watch?v=bcRl7sXR1hE&ab_channel=MicrosoftResearch
 
 ## Timetable
 
