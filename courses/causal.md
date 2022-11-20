@@ -27,7 +27,7 @@ The training will consist of technical lectures, directed reading group discussi
 
 **THIS COURSE IS NOT AN INTRODUCTORY COURSE** 
 
-Participants are expected to have sufficient mathematical and computational as outlined below. Participants will be required to have undertaken the pre-course reading.
+Participants are expected to have sufficient mathematical and computational as outlined below. Participants will be required to have undertaken the pre-course reading. If you are interested in a non-technical introduction to this area, you may wish to consider alternative providers such as the [Leeds Causal Inference Training Course](https://www.causalinsights.com/training/).
 
 1. In order to take part in the group tasks, students will be expected to have access to a laptop with the Python language installed. Familiarity with Python is an advantage, but experience in programming in any imperative language (e.g. R, C++, Java) will likely suffice for the course.
 
