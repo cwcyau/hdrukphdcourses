@@ -39,8 +39,8 @@ In the academic year 2022/23, we will be running the following courses:
 | ----- | ------| ------ | --------- | --- | ---------------- | ------ | --------------------- | 
 | 9-11 Nov 2022 |  [Fairness in healthcare modelling](courses/fairness.md) | Wellcome Trust | London | No fee | None | 6 | 15/10/2022 |
 | 17-19 Jan 2023 | [Structural Causal Models](courses/causal.md) | [Oxford Martin School](https://www.oxfordmartin.ox.ac.uk/) | Oxford | No fee | None | 9 | 30/11/2022 |
-| tbc | [Real-world Experimental Design](courses/exptdesign.md) | University of Birmingham | Birmingham | tbc | tbc | tbc | tbc |
-| tbc | [Electronic Health Record Modelling](courses/pioneer.md) | University of Birmingham | Birmingham | tbc | tbc | tbc | tbc |
+| 15-19 May 2023 | [Study Design](https://www.birmingham.ac.uk/research/data-science/health-data-training/experimental-and-observational-methods.aspx) | University of Birmingham | Birmingham | See link | Yes | 30 | tbc |
+| 27-31 Mar 2023 | [Working with Real World Data](https://www.birmingham.ac.uk/research/data-science/health-data-training/health-data-immersion-week-real-world-data.aspx) | University of Birmingham | Birmingham | See link | Yes | 30 | 28/2/2023 |
 
 * Participants will normally be expected to arrange their own travel and accommodation. 
 * A limited number of bursaries maybe available for some courses.
