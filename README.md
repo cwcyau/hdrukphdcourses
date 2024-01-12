@@ -41,7 +41,7 @@ In the academic year 2022/23, we will be running the following courses:
 | 17-19 Jan 2023 | [Structural Causal Models](courses/causal.md) | [Oxford Martin School](https://www.oxfordmartin.ox.ac.uk/) | Oxford | No fee | None | 9 | 30/11/2022 |
 | 15-19 May 2023 | [Study Design](https://www.birmingham.ac.uk/research/data-science/health-data-training/experimental-and-observational-methods.aspx) | University of Birmingham | Birmingham | See link | Yes | 30 | tbc |
 | 27-31 Mar 2023 | [Working with Real World Data](https://www.birmingham.ac.uk/research/data-science/health-data-training/health-data-immersion-week-real-world-data.aspx) | University of Birmingham | Birmingham | See link | Yes | 30 | 28/2/2023 |
-| (tbc) Summer 2023 | [HDRUK-Roche Summer School](https://forms.gle/qkti1gFpWsAMDiqS9) | HDRUK | tbc | tbc | Yes | 16 | EOI open |
+| 14-17 July 2023 | [HDRUK-Roche Summer School]([https://forms.gle/qkti1gFpWsAMDiqS9](https://cwcyau.github.io/hdruk-roche-summer-school/)) | HDRUK | Solihull | Yes | No | 16 | 30/5/2023 |
 
 * Participants will normally be expected to arrange their own travel and accommodation. 
 * A limited number of bursaries maybe available for some courses.
